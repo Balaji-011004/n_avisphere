@@ -9,7 +9,7 @@ import {
 import { MapDataContext, NavigationContext } from "../pages/Map";
 
 import { navigateToObject } from "@/utils/navigationHelper";
-import { FaInfoCircle } from "react-icons/fa";
+//import { FaInfoCircle } from "react-icons/fa";
 
 interface ParsedObjects {
   [key: string]: {
